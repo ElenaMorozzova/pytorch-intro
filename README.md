@@ -1,1 +1,1 @@
-# pytorch-intro
+# labs for pytorch-intro course
